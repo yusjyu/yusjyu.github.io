@@ -16,10 +16,11 @@ mkdir blog; cd blog
 ```
 * Setup hexo:
 ```bash
+npm install hexo
 hexo init
 ```
 ```bash
-npm install hexo-deployer-git –save
+npm  install hexo-deployer-git  --save
 ```
 * Download theme:
 ```bash
