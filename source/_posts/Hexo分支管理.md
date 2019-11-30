@@ -8,7 +8,7 @@ tags:
 >*master branch*: 存储 ```hexo g -d``` 生成的代码
 
 >*hexo branch*: 存储hexo源代码
-
+<!-- more -->
 # Initial Setup
 * Create folder on local:
 ```bash

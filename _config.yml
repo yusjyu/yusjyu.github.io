@@ -105,3 +105,11 @@ deploy:
   type: git
   repository: https://github.com/yusjyu/yusjyu.github.io.git
   branch: master
+
+# Posts
+symbols_count_time:
+  symbols: false
+  total_symbols: true
+  time: false
+  total_time: false
+  
